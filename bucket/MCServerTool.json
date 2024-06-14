@@ -1,0 +1,29 @@
+{
+    "version": "1.1.0-SNAPSHOT-cb0e8b3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/Arama-Vanarana/MCServerTool/releases/download/v1.1.0/MCServerTool_Windows_i386.zip",
+            "bin": [
+                "MCST.exe"
+            ],
+            "hash": "62e79373f6faa3c7aa1049d35e282531117f555381d892d0e171329a854d5777"
+        },
+        "64bit": {
+            "url": "https://github.com/Arama-Vanarana/MCServerTool/releases/download/v1.1.0/MCServerTool_Windows_x86_64.zip",
+            "bin": [
+                "MCST.exe"
+            ],
+            "hash": "227fab6efcc757761480c39944436f0dac96c4c73ce157f15ef0e54f70a3409b"
+        },
+        "arm64": {
+            "url": "https://github.com/Arama-Vanarana/MCServerTool/releases/download/v1.1.0/MCServerTool_Windows_arm64.zip",
+            "bin": [
+                "MCST.exe"
+            ],
+            "hash": "98ac768179aacad835f85f9ab0f41b3ad022c68dab3040b3d36bb49ae9c46a71"
+        }
+    },
+    "homepage": "https://github.com/Arama0517/MCServerTool",
+    "license": "GPL-v3",
+    "description": "A command-line utility making Minecraft server creation quick and easy for beginners"
+}
