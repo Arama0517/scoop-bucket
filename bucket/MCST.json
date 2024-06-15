@@ -6,21 +6,21 @@
             "bin": [
                 "MCST.exe"
             ],
-            "hash": "6562af39040d8d88ba81033e2a44c5e797f588c21339d40806b331d892178e4e"
+            "hash": "c652ce16d2abf1b342ab110d29e0b5daae212434c85d2cb89d19f1723f84d945"
         },
         "64bit": {
             "url": "https://github.com/Arama0517/MCST/releases/download/v1.2.0/MCST_Windows_x86_64.zip",
             "bin": [
                 "MCST.exe"
             ],
-            "hash": "9cd4bd257f6f7fac05412dfdc9074e22f8301810bef8a1d229202c56873eb77d"
+            "hash": "220e820729b3562e0ad91e69deb852ea826b3b10ef544e41dafff4ac9d1ea3e8"
         },
         "arm64": {
             "url": "https://github.com/Arama0517/MCST/releases/download/v1.2.0/MCST_Windows_arm64.zip",
             "bin": [
                 "MCST.exe"
             ],
-            "hash": "1bec097fb15c052dac9d7ac9cf7d0c8a967d188ff8ab50d37b235f06da8e6d61"
+            "hash": "7b639bf2d9f9ae1d2072b97c2158ea133e762f06385848c934ec5c219e056e80"
         }
     },
     "homepage": "https://github.com/Arama0517/MCServerTool",
