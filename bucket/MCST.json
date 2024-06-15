@@ -2,25 +2,25 @@
     "version": "1.2.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Arama0517/MCServerTool/releases/download/v1.2.0/MCServerTool_Windows_i386.zip",
+            "url": "https://github.com/Arama0517/MCST/releases/download/v1.2.0/MCST_Windows_i386.zip",
             "bin": [
                 "MCST.exe"
             ],
-            "hash": "18a80717a6dd813f39b1ca999b6524c649e809af4ea3e4c7ad5d5ceb1bcf40fd"
+            "hash": "afc67459323cac1bf7101c3c9a3c04748f8b2fbef043de619cab69bbd9d696cb"
         },
         "64bit": {
-            "url": "https://github.com/Arama0517/MCServerTool/releases/download/v1.2.0/MCServerTool_Windows_x86_64.zip",
+            "url": "https://github.com/Arama0517/MCST/releases/download/v1.2.0/MCST_Windows_x86_64.zip",
             "bin": [
                 "MCST.exe"
             ],
-            "hash": "b1d9391a1a7994a92e1f3e035d6aa9d2d679e372123b3ec792362fb8eb08ea5a"
+            "hash": "8ed7b3536e073e0569f391a93a0ade872ae1919ab16bd2fa01c57ab5b1129733"
         },
         "arm64": {
-            "url": "https://github.com/Arama0517/MCServerTool/releases/download/v1.2.0/MCServerTool_Windows_arm64.zip",
+            "url": "https://github.com/Arama0517/MCST/releases/download/v1.2.0/MCST_Windows_arm64.zip",
             "bin": [
                 "MCST.exe"
             ],
-            "hash": "99081d18778dd881fc19e77bf29b355dcfd941679b5683affdf9b852391c2d13"
+            "hash": "c99ebe73949fe6cae65a49976e2f030b5aad680b5ab1306c6674557b702bb215"
         }
     },
     "homepage": "https://github.com/Arama0517/MCServerTool",
