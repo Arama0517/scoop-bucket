@@ -6,21 +6,21 @@
             "bin": [
                 "MCST-1.3.0-windows-386/MCST.exe"
             ],
-            "hash": "49e1f260586958e68597fc2543ad63663953a004c1bcd743d3aacce180ca3bdd"
+            "hash": "eee6ef644c0663382af627e11e47b40ec432dd58660ced017c7406ab98bc8cfb"
         },
         "64bit": {
             "url": "https://github.com/Arama0517/MCST/releases/download/v1.3.0/MCST-1.3.0-windows-amd64.zip",
             "bin": [
                 "MCST-1.3.0-windows-amd64/MCST.exe"
             ],
-            "hash": "9212030fd47336e81bf1e6178f5db0d29bc6b4a88dcf0fe1fe61db5e5ebd868b"
+            "hash": "f952f1f89956aacba3e9ff61922c3df62f21993c69fb602068981e4387c06fb6"
         },
         "arm64": {
             "url": "https://github.com/Arama0517/MCST/releases/download/v1.3.0/MCST-1.3.0-windows-arm64.zip",
             "bin": [
                 "MCST-1.3.0-windows-arm64/MCST.exe"
             ],
-            "hash": "5586326955edbda5691388702b005db1fb3649d7acd3fb778148b23fdf1872f6"
+            "hash": "fd7dfc358e2df46671e5f33309b7f4c3b5becb71789a76b5e0ef72ee73a3f9f1"
         }
     },
     "homepage": "https://github.com/Arama0517/MCST",
